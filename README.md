@@ -42,7 +42,7 @@ An AI-powered diet planner that generates personalized meal plans based on healt
 
 ✅ Simple, intuitive UI
 
-🔗 View Project Repo 
+🔗 View Project Repo (check ai diet planner repo)
 
 🌐 Connect with Me
 💼 LinkedIn (https://www.linkedin.com/in/p-varun-kumar-3844252a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
